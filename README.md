@@ -1,9 +1,6 @@
-# AlgoArena2.o
-## PS - 1
-Number of problems accepted = 10,
-Number of problems tried but not accpeted = 0,
-Number of problems not tried = 0
-## PS - 2
-Number of problems accpeted = 5,
-Number of problems tried but not accepted = 2,
-Number of problems not tried = 0
+# AlgoArena2.o - Suryansh Verma - 231061
+| Problem set number | Number of problems accepted | Number of problems tried but not accepted | Number of problems not tried | Total number of problems |
+| :---: | :---: | :---: | :---: | :---: |
+| 1 | 10 | 0 | 0 | 10 |
+| 2 | 5 | 2 | 0 | 7 |
+| 3 | 6 | 2 | 0 | 8 |
